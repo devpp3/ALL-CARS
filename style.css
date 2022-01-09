@@ -1,0 +1,40 @@
+h1{
+    background-color: palevioletred;
+    color: red;
+    padding: 20px;
+}
+
+h2{
+    background-color: palevioletred;
+    color: red;
+}
+
+h3{
+    background-color: palevioletred;
+    color: red;
+    padding: 15px;
+    margin: 20px;
+}
+
+.paras{
+    height: 400px;
+    width: 500px;
+    padding: 15px;
+  
+}
+
+.adi{
+    height: 400;
+    width: 500;
+    padding: 15px;
+}
+
+p{
+    padding: 30px;
+}
+
+img{
+    border-radius: 15px;
+    border: 2px solid black;
+    margin: 20px;
+}
